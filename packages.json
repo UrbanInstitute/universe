@@ -1,0 +1,14 @@
+[
+    {
+        "package": "educationdata",
+        "url": "https://github.com/UrbanInstitute/education-data-package-r"
+    },
+    {
+        "package": "urbnmapr",
+        "url": "https://github.com/UrbanInstitute/urbnmapr"
+    },
+    {
+        "package": "urbnthemes",
+        "url": "https://github.com/UrbanInstitute/urbnthemes"
+    }
+]
